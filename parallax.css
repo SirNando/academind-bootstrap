@@ -1,0 +1,17 @@
+body {
+    width: 100;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+section {
+    width: 100%;
+    max-width: 50rem;
+    height: auto;
+    margin: 2rem auto;
+}
+
+#main-image {
+    height: 30rem;
+    object-fit: cover;
+}

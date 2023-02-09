@@ -1,0 +1,21 @@
+body {
+    width: 100%;
+}
+
+#carousel-example {
+    width: 100%;
+    max-width: 50rem;
+    height: auto;
+    margin: 1rem auto;
+}
+
+#carousel-example img {
+    object-fit: cover ;
+    height: 30rem;
+    border-radius: 10px;
+}
+
+#form {
+    max-width: 30rem;
+    margin: 4rem auto;
+}
